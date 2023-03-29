@@ -1,6 +1,6 @@
 # v-org-tree
 
-
+vue树形拓扑图渲染
 [vue-org-tree](https://suyuncong.github.io/vue-org-tree/docs/index.html#/)是一个基于Vue.js2封装的组织结构树组件，支持自定义节点和收缩按钮，高自由度定制，有水平和垂直两种方向。
 
 
